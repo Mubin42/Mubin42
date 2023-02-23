@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kazi Ehsanul Mubin
-- 👀 I’m interested in ... Machine Learning/ Deep Learning/ Front and Backend Web Development.
+- 👀 I’m interested in ... Machine Learning/ Deep Learning/ Web Development.
 - 🌱 I’m currently learning ... React
 - 💞️ I’m looking to collaborate on ... my ongoing research in Image Colorization Techniques using DL.
 - 📫 How to reach me ... kazimubin.46@gmail.com
