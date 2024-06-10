@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Advanced Express Js<br>🎯 Goals: NaN<br>🎲 Fun fact: NaN</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Advanced Nest Js<br>🎯 Goals: NaN<br>🎲 Fun fact: NaN</p>
 
 ###
 
