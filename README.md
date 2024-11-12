@@ -1,6 +1,8 @@
 # 💫 About Me:
 Creating bugs since 2019<be>
+
 Goals: Become a 10x developer<be>
+
 Fun fact: I make jokes.
 
 
